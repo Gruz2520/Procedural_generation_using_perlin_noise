@@ -1,0 +1,4 @@
+repository "Perlin_noise@gruz2520@cloud"
+  path "/"
+    br "/main"
+    co "/main"
